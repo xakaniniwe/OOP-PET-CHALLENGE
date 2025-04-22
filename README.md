@@ -1,6 +1,6 @@
 # OOP Pet Challenge
 
-This repository contains the solution to the OOP Pet Challenge.
+This repository contains the solution to the OOP Pet Challenge. Unfortunately the Group I am Assignt to is inactive so i had to do it alone
 
 ## Overview
 
